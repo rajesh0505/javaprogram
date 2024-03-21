@@ -1,0 +1,19 @@
+2023-12-29 12:02:38 INFO  Hooks:21 - ************************************************************************
+2023-12-29 12:02:38 INFO  Hooks:22 -  Started Working on Scenario : Verify the Login functionality with valid Username and Valid Password
+2023-12-29 12:02:38 INFO  Hooks:23 - ************************************************************************
+2023-12-29 12:02:38 INFO  PropertyFileLoader:39 - loaded the property file
+2023-12-29 12:02:38 INFO  WebAppDriverManager:40 - Initializing Driver :Chrome
+2023-12-29 12:02:40 INFO  Hooks:30 - ************************************************************************
+2023-12-29 12:02:40 INFO  Hooks:31 -  Completed Working on Scenario : Verify the Login functionality with valid Username and Valid Password
+2023-12-29 12:02:40 INFO  Hooks:32 - ************************************************************************
+2023-12-29 12:02:40 INFO  Hooks:21 - ************************************************************************
+2023-12-29 12:02:40 INFO  Hooks:22 -  Started Working on Scenario : Verify the Login functionality with blank Username and blank Password
+2023-12-29 12:02:40 INFO  Hooks:23 - ************************************************************************
+2023-12-29 12:02:40 INFO  WebAppDriverManager:40 - Initializing Driver :Chrome
+2023-12-29 12:02:41 INFO  Hooks:30 - ************************************************************************
+2023-12-29 12:02:41 INFO  Hooks:31 -  Completed Working on Scenario : Verify the Login functionality with blank Username and blank Password
+2023-12-29 12:02:41 INFO  Hooks:32 - ************************************************************************
+2023-12-29 12:02:41 INFO  Hooks:21 - ************************************************************************
+2023-12-29 12:02:41 INFO  Hooks:22 -  Started Working on Scenario : Verify the login functionality with blank Username and valid Password
+2023-12-29 12:02:41 INFO  Hooks:23 - ************************************************************************
+2023-12-29 12:02:41 INFO  WebAppDriverManager:40 - Initializing Driver :Chrome
